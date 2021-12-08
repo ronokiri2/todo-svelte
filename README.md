@@ -23,7 +23,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd my-svelte-project
 npm install
 ```
 
